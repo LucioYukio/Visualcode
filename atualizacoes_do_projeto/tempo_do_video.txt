@@ -1,0 +1,7 @@
+Vídeo: https://www.youtube.com/watch?v=AY9MnQ4x3zk
+
+Tempo: 1:29:34
+
+cores rgb: https://pygame.readthedocs.io/en/latest/1_intro/intro.html
+
+github pygame: https://github.com/clear-code-projects/UltimatePygameIntro
